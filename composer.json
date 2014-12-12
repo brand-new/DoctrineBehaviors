@@ -1,5 +1,5 @@
 {
-    "name": "brandnew/doctrine-behaviors",
+    "name": "library/doctrine-behaviors",
     "type": "library",
     "description": "Doctrine2 behavior traits",
     "keywords": [
